@@ -7,7 +7,7 @@ A Python-based project for simulating and visualizing operating system process m
 ===========================================
 
 Project Name: OS-Process-Visualizer  
-Author: [Vaibhav Tripathi ]
+Author: [Vaibhav, Dhruv, Mihir]
 Version: 1.0  
 License: MIT  
 
@@ -99,5 +99,6 @@ Ensure that all dependencies are installed using `pip install -r requirements.tx
 ---------------------------------------------------
 📌 Contact
 ---------------------------------------------------
-📧 For questions or collaboration opportunities.  
+📧 For questions or collaboration opportunities, contact [vaibhavtripathi724@gmail.com].
+
 
