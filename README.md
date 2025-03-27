@@ -27,6 +27,11 @@ to help users interact with different scheduling algorithms and observe real-tim
 ✅ Dynamic input for user-defined processes.  
 ✅ Modular code structure for easy extension.  
 
+--------------------------------------------------
+
+![Screenshot 2025-03-27 215141](https://github.com/user-attachments/assets/7e94576f-a8e7-40c4-8e98-6f43bc119792)
+
+
 ---------------------------------------------------
 📌 Installation Guide
 ---------------------------------------------------
