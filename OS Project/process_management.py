@@ -1,3 +1,6 @@
+#psutil library is used to library in Python is used for system and process monitoring.
+
+
 import psutil
 from tkinter import messagebox 
 
