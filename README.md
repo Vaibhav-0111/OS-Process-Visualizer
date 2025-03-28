@@ -11,7 +11,7 @@ Author: [Vaibhav, Dhruv, Mihir]
 Version: 1.0  
 License: MIT  
 
----------------------------------------------------
+------------------------------------------------------
 📌 Overview
 ---------------------------------------------------
 The OS Process Visualizer is a Python-based application that simulates and visualizes core operating system concepts, 
