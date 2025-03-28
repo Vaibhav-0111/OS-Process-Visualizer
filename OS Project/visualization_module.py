@@ -1,4 +1,7 @@
-#visualization ke liye 
+#The Visualization Module is designed to create graphical representations of real-time
+#system resource usage. The module uses Matplotlib and Seaborn for creating clear,
+#informative, and interactive visualizations.
+    
 import matplotlib.pyplot as plt
 import psutil
 import seaborn as sns
