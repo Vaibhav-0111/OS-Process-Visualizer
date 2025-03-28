@@ -1,0 +1,3 @@
+pip install sklearn
+pip install psutil
+pip install ptkinter
