@@ -1,3 +1,4 @@
+These library should be installed to run the project
 numpy
 matplotlib
 tk
