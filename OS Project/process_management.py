@@ -1,4 +1,7 @@
+#It is main part 
+
 import psutil
+
 from tkinter import messagebox 
 
 class ProcessManager:
