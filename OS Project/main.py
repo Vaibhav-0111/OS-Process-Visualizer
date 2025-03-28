@@ -1,3 +1,5 @@
+#I have  integrated different files to ensure compatibility across various environments for seamless operation
+
 from gui_module import ProcessVirtualizationGUI
 import tkinter as tk
 
