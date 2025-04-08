@@ -5,9 +5,7 @@ A Python-based project for simulating and visualizing operating system process m
 ![License-MIT-green](https://github.com/user-attachments/assets/2e49169d-5413-4d0d-89b1-e37e5ff02bfc)
 ![Python-3](https://github.com/user-attachments/assets/efd3e111-eb4d-4c40-a127-9c7cbf206072)
 
-===========================================
-      OS Process Visualizer Project
-===========================================
+
 
 📘 Project Info
 Project Name: OS-Process-Visualizer  
