@@ -11,11 +11,8 @@ A Python-based project for simulating and visualizing operating system process m
 📘 Project Info
 
 Project Name: OS-Process-Visualizer  
-
 Author: [Vaibhav, Dhruv, Mihir]
-
 Version: 1.0  
-
 License: MIT  
 
 ------------------------------------------------------
